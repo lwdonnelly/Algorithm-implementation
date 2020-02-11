@@ -1,0 +1,240 @@
+Luke Donnelly
+CS 1501 Project 2 Results
+all.tar
+	Original file size: 2.89 MB (3,031,040 bytes)
+	Unmodified LZW 
+		Compressed file size: 1.76 MB (1,846,854 bytes)
+		Compression Ratio: 1.641
+	MyLZW Do Nothing Mode
+		Compressed file size: 1.70 MB (1,792,781 bytes)
+		Compression Ratio: 1.691
+	MyLZW Reset Mode
+		Compressed file size: 1.12 MB (1,178,221 bytes)
+		Compression Ratio: 2.573	
+	MyLZW Monitor Mode
+		Compressed file size: 1.73 MB (1,819,874 bytes)
+		Compression Ratio: 1.666	
+	7zip
+		Compressed file size: 809 KB (828,654 bytes)
+		Compression Ratio: 3.658
+assig2.doc
+	Original file size: 85.0 KB (87,040 bytes)
+	Unmodified LZW 
+		Compressed file size: 72.8 KB (74,574 bytes)
+		Compression Ratio: 1.167
+	MyLZW Do Nothing Mode
+		Compressed file size: 39.1 KB (40,040 bytes)
+		Compression Ratio: 2.174	
+	MyLZW Reset Mode
+		Compressed file size: 39.1 KB (40,040 bytes)
+		Compression Ratio: 2.174	
+	MyLZW Monitor Mode
+		Compressed file size: 39.1 KB (40,040 bytes)
+		Compression Ratio: 2.174	
+	7zip
+		Compressed file size: 20.2 KB (20,729 bytes)
+		Compression Ratio: 4.199
+bmps.tar
+	Original file size: 1.05 MB (1,105,920 bytes)
+	Unmodified LZW 
+		Compressed file size: 903 KB (925,079 bytes)
+		Compression Ratio: 1.195
+	MyLZW Do Nothing Mode
+		Compressed file size: 79.0 KB (80,913 bytes)
+		Compression Ratio: 13.668	
+	MyLZW Reset Mode
+		Compressed file size: 79.0 KB (80,913 bytes
+		Compression Ratio: 13.668	
+	MyLZW Monitor Mode
+		Compressed file size: 79.0 KB (80,913 bytes)
+		Compression Ratio: 13.668	
+	7zip
+		Compressed file size: 52.8 KB (54,107 bytes)
+		Compression Ratio: 20.439
+code.txt
+	Original file size: 70.6 KB (72,351 bytes)
+	Unmodified LZW 
+		Compressed file size: 30.2 KB (30,980 bytes)
+		Compression Ratio: 2.335
+	MyLZW Do Nothing Mode
+		Compressed file size: 23.9 KB (24,545 bytes)
+		Compression Ratio: 2.948	
+	MyLZW Reset Mode
+		Compressed file size: 23.9 KB (24,545 bytes)
+		Compression Ratio: 2.948	
+	MyLZW Monitor Mode
+		Compressed file size: 23.9 KB (24,545 bytes)
+		Compression Ratio: 2.948	
+	7zip
+		Compressed file size: 13.7 KB (14,035 bytes)
+		Compression Ratio: 5.155
+code2.txt
+	Original file size: 56.3 KB (57,701 bytes)
+	Unmodified LZW 
+		Compressed file size: 23.5 KB (24,138 bytes)
+		Compression Ratio: 2.390
+	MyLZW Do Nothing Mode
+		Compressed file size: 20.0 KB (20,516 bytes)
+		Compression Ratio: 2.812	
+	MyLZW Reset Mode
+		Compressed file size: 20.0 KB (20,516 bytes)
+		Compression Ratio: 2.812	
+	MyLZW Monitor Mode
+		Compressed file size: 20.0 KB (20,516 bytes)
+		Compression Ratio: 2.812	
+	7zip
+		Compressed file size: 12.0 KB (12,342 bytes)
+		Compression Ratio: 4.675
+edit.exe
+	Original file size: 230 KB (236,328 bytes)
+	Unmodified LZW 
+		Compressed file size: 244 KB (250,742 bytes)
+		Compression Ratio: 0.943
+	MyLZW Do Nothing Mode
+		Compressed file size: 152 KB (156,409 bytes)
+		Compression Ratio: 1.511	
+	MyLZW Reset Mode
+		Compressed file size: 148 KB (152,227 bytes)
+		Compression Ratio: 1.552	
+	MyLZW Monitor Mode
+		Compressed file size: 152 KB (156,409 bytes)
+		Compression Ratio: 1.511	
+	7zip
+		Compressed file size: 96.0 KB (98,313 bytes)
+		Compression Ratio: 2.404
+frosty.jpg
+	Original file size: 123 KB (126,748 bytes)
+	Unmodified LZW 
+		Compressed file size: 173 KB (177,453 bytes)
+		Compression Ratio:
+	MyLZW Do Nothing Mode
+		Compressed file size: 159 KB (163,789 bytes)
+		Compression Ratio: 	
+	MyLZW Reset Mode
+		Compressed file size: 167 KB (171,170 bytes)
+		Compression Ratio: 	
+	MyLZW Monitor Mode
+		Compressed file size: 159 KB (163,789 bytes)
+		Compression Ratio: 	
+	7zip
+		Compressed file size: 123 KB (126,888 bytes)
+		Compression Ratio:
+gone_fishing.bmp
+	Original file size: 16.9 KB (17,336 bytes)
+	Unmodified LZW 
+		Compressed file size: 9.06 KB (9,278 bytes)
+		Compression Ratio: 1.869
+	MyLZW Do Nothing Mode
+		Compressed file size: 8.75 KB (8,963 bytes)
+		Compression Ratio: 1.934	
+	MyLZW Reset Mode
+		Compressed file size: 8.75 KB (8,963 bytes)
+		Compression Ratio: 1.934	
+	MyLZW Monitor Mode
+		Compressed file size: 8.75 KB (8,963 bytes)
+		Compression Ratio: 1.934	
+	7zip
+		Compressed file size: 7.97 KB (8,164 bytes)
+		Compression Ratio: 2.123
+large.txt
+	Original file size: 1.16 MB (1,220,703 bytes)
+	Unmodified LZW 
+		Compressed file size: 591 KB (605,184 bytes)
+		Compression Ratio: 2.017
+	MyLZW Do Nothing Mode
+		Compressed file size: 490 KB (501,777 bytes)
+		Compression Ratio: 2.433	
+	MyLZW Reset Mode
+		Compressed file size: 515 KB (527,506 bytes)
+		Compression Ratio: 2.314	
+	MyLZW Monitor Mode
+		Compressed file size: 490 KB (501,777 bytes)
+		Compression Ratio: 2.433	
+	7zip
+		Compressed file size: 392 KB (402,391 bytes)
+		Compression Ratio: 3.034
+Lego-big.gif
+	Original file size: 91.1 KB (93,371 bytes)
+	Unmodified LZW 
+		Compressed file size: 125 KB (128,973 bytes)
+		Compression Ratio: 0.724
+	MyLZW Do Nothing Mode
+		Compressed file size: 119 KB (122,493 bytes)
+		Compression Ratio: 0.762	
+	MyLZW Reset Mode
+		Compressed file size: 119 KB (122,493 bytes)
+		Compression Ratio: 0.762	
+	MyLZW Monitor Mode
+		Compressed file size: 119 KB (122,493 bytes)
+		Compression Ratio: 0.762	
+	7zip
+		Compressed file size: 90.2 KB (92,402 bytes)
+		Compression Ratio: 1.010
+medium.txt
+	Original file size: 24.8 KB (25,407 bytes)
+	Unmodified LZW 
+		Compressed file size: 12.8 KB (13,197 bytes)
+		Compression Ratio: 1.925
+	MyLZW Do Nothing Mode
+		Compressed file size: 12.2 KB (12,531 bytes)
+		Compression Ratio: 2.028	
+	MyLZW Reset Mode
+		Compressed file size: 12.2 KB (12,531 bytes)
+		Compression Ratio: 2.028	
+	MyLZW Monitor Mode
+		Compressed file size: 12.2 KB (12,531 bytes)
+		Compression Ratio: 2.028	
+	7zip
+		Compressed file size: 10.1 KB (10,415 bytes)
+		Compression Ratio: 2.439
+texts.tar
+	Original file size: 1.31 MB (1,382,400 bytes)
+	Unmodified LZW 
+		Compressed file size: 988 KB (1,012,179 bytes)
+		Compression Ratio: 1.366
+	MyLZW Do Nothing Mode
+		Compressed file size: 583 KB (597,847 bytes)
+		Compression Ratio: 2.312	
+	MyLZW Reset Mode
+		Compressed file size: 576 KB (590,475 bytes)
+		Compression Ratio: 2.341	
+	MyLZW Monitor Mode
+		Compressed file size: 583 KB (597,847 bytes)
+		Compression Ratio: 2.312	
+	7zip
+		Compressed file size: 426 KB (436,539 bytes)
+		Compression Ratio: 3.167
+wacky.bmp
+	Original file size: 900 KB (921,654 bytes)
+	Unmodified LZW 
+		Compressed file size: 4.20 KB (4,302 bytes)
+		Compression Ratio: 214.238
+	MyLZW Do Nothing Mode
+		Compressed file size: 3.85 KB (3,951 bytes)
+		Compression Ratio: 233.271	
+	MyLZW Reset Mode
+		Compressed file size: 3.85 KB (3,951 bytes)
+		Compression Ratio: 233.271	
+	MyLZW Monitor Mode
+		Compressed file size: 3.85 KB (3,951 bytes)
+		Compression Ratio: 233.271	
+	7zip
+		Compressed file size: 2.10 KB (2,160 bytes)
+		Compression Ratio: 426.692
+winnt256.bmp
+	Original file size: 153 KB (157,044 bytes)
+	Unmodified LZW 
+		Compressed file size: 155 KB (159,050 bytes)
+		Compression Ratio: 0.987
+	MyLZW Do Nothing Mode
+		Compressed file size: 61.4 KB (62,931 bytes)
+		Compression Ratio: 2.495	
+	MyLZW Reset Mode
+		Compressed file size: 61.4 KB (62,931 bytes)
+		Compression Ratio: 2.495	
+	MyLZW Monitor Mode
+		Compressed file size: 61.4 KB (62,931 bytes)
+		Compression Ratio: 2.495	
+	7zip
+		Compressed file size: 42.8 KB (43,856 bytes)
+		Compression Ratio: 3.581

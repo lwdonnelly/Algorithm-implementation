@@ -1,0 +1,9 @@
+I decided to use a hashmap to store where in the indexable priority 
+queue each VIN is. I used two priority queues, one for keeping minimum prices
+and one for keeping track of minimum mileages. I used a stack (made from a link list of IndexNodes)
+to keep track of indexes that were deleted and are now available to use.
+
+I used a HashMap because performance for get and put operations is constant time.
+I used two indexable priority queues to keep the run times for retrieving minimum mileage and price for all cars,
+updates and removals to have a runtime of O(log(n)) or better.
+Admittedly, I could not figure out a way to find the minimum of a make and model in logarithmic time, as my implementation is linear with respect to the size of the priority queue.

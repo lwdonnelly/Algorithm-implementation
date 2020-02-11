@@ -1,5 +1,0 @@
-I decided to use a de la briandais to store the user's history. 
-I decided to do this implementation because it gives me a way to search for suggestions quickly and easily without checking if each entry is a good suggestion.
-Another reason that I chose to use a DLB trie is because it only uses the amount of memory that is needed,
-and I expect the data set of the user's predictions to be sparse, especially towards the bottom of the trie (so something like an R-way trie would waste a lot of space).
-It was also mostly implemented for the dictionary part of the project (I only had to add a few more features to the trie), saving engineering effort compared to some other implementations.
