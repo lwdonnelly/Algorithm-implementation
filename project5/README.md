@@ -1,4 +1,4 @@
-# CS/COE 1501 Assignment 5
+# Assignment 5
 
 ## Goal:
 
